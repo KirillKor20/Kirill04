@@ -1,8 +1,12 @@
-Name = 'Kirill'
-print('Name:''Kirill')
-Age = '23'
-print('Age:''23')
-New_age = '24'
-print('New age:''24')
-Is_student = 'True'
-print('Is student:''True')
+name = 'Kirill'
+print('name:', name)
+age = 23
+print('age:', 23)
+age = age+1
+print('new_age:',23+1)
+is_student = True
+print('is_student:',True)
+
+
+
+
